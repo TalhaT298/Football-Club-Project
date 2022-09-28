@@ -1,0 +1,62 @@
+[
+  {
+    "id": "6334bd2575af392a01a7c88a",
+    "index": 0,
+    "balance": "$3,098.46",
+    "picture": "http://placehold.it/32x32",
+    "age": 28,
+    "eyeColor": "green",
+    "name": "Wyatt Bauer",
+    "gender": "male"
+  },
+  {
+    "id": "6334bd25521a81e11ab82764",
+    "index": 1,
+    "balance": "$1,181.41",
+    "picture": "http://placehold.it/32x32",
+    "age": 27,
+    "eyeColor": "green",
+    "name": "Kramer Carlson",
+    "gender": "male"
+  },
+  {
+    "id": "6334bd25f7c747a2b4af4725",
+    "index": 2,
+    "balance": "$2,490.81",
+    "picture": "http://placehold.it/32x32",
+    "age": 40,
+    "eyeColor": "blue",
+    "name": "Rachael Coleman",
+    "gender": "female"
+  },
+  {
+    "id": "6334bd2505ab2990a22e8262",
+    "index": 3,
+    "balance": "$2,580.81",
+    "picture": "http://placehold.it/32x32",
+    "age": 39,
+    "eyeColor": "brown",
+    "name": "Lorrie Shepard",
+    "gender": "female"
+  },
+  {
+    "id": "6334bd258080c403d3858e20",
+    "index": 4,
+    "balance": "$2,169.88",
+    "picture": "http://placehold.it/32x32",
+    "age": 25,
+    "eyeColor": "green",
+    "name": "Clare Mullins",
+    "gender": "female"
+  },
+  {
+    "id": "6334bd25b664d629a2c88a98",
+    "index": 5,
+    "balance": "$1,257.04",
+    "picture": "http://placehold.it/32x32",
+    "age": 32,
+    "eyeColor": "green",
+    "name": "Beverley Casey",
+    "gender": "female"
+  }
+]
