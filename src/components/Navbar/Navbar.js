@@ -7,7 +7,7 @@ const Navbar = () => {
             <div>
                 <img className='img-fluid img-size' src="https://previews.123rf.com/images/mictoon/mictoon1801/mictoon180100035/93259296-soccer-football-logo-icon-with-swoosh-design.jpg" alt=""/>
             </div>
-              <div><h1>Football Clubs</h1></div>
+              <div><h1>Football Club</h1></div>
         </div>
     );
 };
