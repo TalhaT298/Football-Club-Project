@@ -2,7 +2,7 @@ import React from 'react';
 
 const Question = () => {
     return (
-        <div className='bg-success p-5 m-3 text-white col-12 rounded'>
+        <div className='bg-dark p-5 m-3 text-white col-12 rounded'>
             <div className='p-5'>
                 <h2>How react works?</h2>
                 <p>

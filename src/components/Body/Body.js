@@ -18,7 +18,7 @@ const Body = (props) => {
     <h5 className="card-title">{name}</h5>
     <p className="card-text">{details}</p>
     <p>{time}seconds</p>
-    <button onClick={()=>handleClicked(info)}  className="btn btn-success">Add to List</button>
+    <button onClick={()=>handleClicked(info)}  className="btn btn-dark">Add to List</button>
   </div>
  
 

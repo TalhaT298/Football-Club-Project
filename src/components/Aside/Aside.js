@@ -38,7 +38,7 @@ const breakTime=(event)=>{
         
        <div>
         <div className='bg-white rounded'>
-        <div className='pt-3 mt-3 me-3 ms-3 bg-opacity-75 bg-success rounded'>
+        <div className='pt-3 mt-3 me-3 ms-3 bg-opacity-75 bg-dark rounded'>
             <h4 className='text-white'>Talha Tarique</h4>
             <h6 className='text-white'>Web Developer</h6>
             <h3 className='p-3 text-white text-center'>Skills</h3>
@@ -53,20 +53,20 @@ const breakTime=(event)=>{
         </div>
 
         <div className='bg-white rounded p-4 bg-success'>
-            <h5 className='text-success mb-4'>Add a Break</h5>
+            <h5 className='text-dark mb-4'>Add a Break</h5>
             <div className='d-flex justify-content-evenly'>
 
-                <button onClick={(event)=>breakTime(event)} className='bg-success border border-white rounded-circle p-2 text-white'>10</button>
-                <button onClick={(event)=>breakTime(event)} className='bg-success border border-white rounded-circle p-2 text-white'>20</button>
-                <button onClick={(event)=>breakTime(event)} className='bg-success rounded-circle p-2 text-white border border-white'>30</button>
-                <button onClick={(event)=>breakTime(event)} className='bg-success rounded-circle p-2 text-white border border-white'>40</button>
+                <button onClick={(event)=>breakTime(event)} className='bg-dark border border-white rounded-circle p-2 text-white'>10</button>
+                <button onClick={(event)=>breakTime(event)} className='bg-dark border border-white rounded-circle p-2 text-white'>20</button>
+                <button onClick={(event)=>breakTime(event)} className='bg-dark rounded-circle p-2 text-white border border-white'>30</button>
+                <button onClick={(event)=>breakTime(event)} className='bg-dark rounded-circle p-2 text-white border border-white'>40</button>
               
             </div>
         </div>
 
-        <div className='bg-white rounded p-4 m-3 text-success'>
+        <div className='bg-white rounded p-4 m-3 text-dark'>
    
-            <h3 className='text-success'>Exercise Details</h3>
+            <h3 className='text-dark'>Exercise Details</h3>
             <div className='d-flex justify-content-evenly'>
                 <h5>Exercise time</h5>
                 <h4>{total}</h4>
@@ -77,7 +77,7 @@ const breakTime=(event)=>{
                 <h4>{breakTimes}</h4>
             </div>
             <div>
-        <button onClick={notify} className='bg-success border border-white p-2 text-white'>Toastify</button>
+        <button onClick={notify} className='bg-dark border border-white p-2 text-white'>Toastify</button>
         <ToastContainer />
     
         </div>
