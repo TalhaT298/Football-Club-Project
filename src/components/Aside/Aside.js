@@ -77,7 +77,7 @@ const breakTime=(event)=>{
                 <h4>{breakTimes}</h4>
             </div>
             <div>
-        <button onClick={notify}>Notify!</button>
+        <button onClick={notify} className='bg-success border border-white p-2 text-white'>Toastify</button>
         <ToastContainer />
     
         </div>
