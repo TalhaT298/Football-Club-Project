@@ -1,14 +1,21 @@
 import './App.css';
-import Header from './components/Header/Header';
-import Player from './components/Player/Player';
+import Home from './components/Home/Home';
+import Navbar from './components/Navbar/Navbar';
+import Question from './components/Question/Question';
+
+
 
 function App() {
   return (
-    <div>
-      <Header></Header>
-      <Player></Player>
+    <div className="App">
+
+<Navbar></Navbar>
+<Home></Home>
+<Question></Question>
+ 
     </div>
   );
 }
 
 export default App;
+
